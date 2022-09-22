@@ -1,0 +1,55 @@
+
+@media screen and (max-width:1400px){
+  
+  #dots i{
+    display: none;
+  }
+
+			
+
+  
+
+
+}
+@media screen and (max-width:992px){
+  
+  #icon{
+    display: none;
+  }
+
+  
+#sellers{
+  display: none;
+}
+
+#dots i{
+  display: block;
+  text-align: center;
+  margin-top: 15px;
+  cursor: pointer;
+  
+  
+}
+
+
+.search {
+ display: none;
+   
+}	
+
+  
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
